@@ -1,0 +1,23 @@
+body{
+  width: 400px;
+  margin: auto;
+}
+.post{
+  margin-top: 50px;
+  padding: 5px;
+  border: 1px solid #eee;
+  border-radius: 15px;
+  text-align: center;
+}
+.post__image{
+  max-width: 100%;
+}
+.post__likes{
+  margin-bottom: 15px;
+}
+a{
+  text-decoration: none;
+}
+a.active{
+  text-decoration: underline !important;
+}
